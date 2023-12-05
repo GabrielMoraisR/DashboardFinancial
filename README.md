@@ -1,36 +1,45 @@
-# Dashboard Financeiro em typescript
+# Dashboard Financeiro em TypeScript
 
-O projeto foi feito com o propósito de estudar mais sobre como funciona o typescript.
+Este projeto foi desenvolvido em TypeScript, focado no aprimoramento dos conhecimentos nesta linguagem de programação. Trata-se de um dashboard para controle de gastos.
 
 ## 🚀 Começando
 
+### Clonando o Projeto
 
-## Rodando o projeto / 
+Para clonar o projeto, utilize o seguinte comando:
 
-Para clonar o projeto, basta usar o seguinte comando:
+```bash
+git clone [link do repositório]
+```
 
-### `git clone` + o link do repositorio
+Após clonar o repositório, instale as dependências do projeto com o comando:
 
-Depois de ter clonado o repositório, rode o seguinte comando para baixar todas as dependêcias do projeto:
+```bash
+npm install
+```
 
-### `npm install`
+Observação: Possíveis erros podem ocorrer dependendo da versão do npm em sua máquina. Para corrigir esses erros, execute o seguinte comando:
 
-OBS: Pode ser que o projeto contenha erros dependendo da versão npm que você tem na sua máquina, para a correção de possiveis erros como esse, rode o seguinte comando: 
+```bash
+npm audit fix
+```
 
-### `npm audit fix`
+Agora, você está pronto para executar o projeto localmente! 😉
 
-Pronto, agora é só rodar o projeto direto da sua máquina! :wink:
+Utilize o seguinte comando:
 
-Use o seguinte comando:
+```bash
+npm start
+```
 
-### `npm start`
+## Próximos Passos
 
+Os próximos passos incluem a implementação de um banco de dados para armazenar e recuperar os dados, proporcionando uma experiência mais completa no controle de gastos.
 
 ## ✒️ Autores
 
-* **Gabriel de Morais** - *Trabalho Total* - [Gabriel de Morais](https://gist.github.com/GabrielMoraisR)
+* **Gabriel de Morais** - *Trabalho Completo* - [Gabriel de Morais](https://gist.github.com/GabrielMoraisR)
 
-## 🎁 Expressões de gratidão
+## 🎁 Expressões de Gratidão
 
-* Um projeto muito desafiador , fiquei bastante tempo desenvolvendo e fazendo melhorias , devido a demando do serviço fui fazendo as correções aos poucos. 📢
-
+* Este projeto foi desafiador, demandando um tempo significativo para desenvolvimento e melhorias. Ao longo do tempo, fui realizando correções conforme as necessidades do serviço. 📢

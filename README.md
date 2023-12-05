@@ -38,7 +38,7 @@ Os próximos passos incluem a implementação de um banco de dados para armazena
 
 ## ✒️ Autores
 
-* **Gabriel de Morais** - *Trabalho Completo* - [Gabriel de Morais](https://gist.github.com/GabrielMoraisR)
+* **Gabriel de Morais** - [Gabriel de Morais](https://www.linkedin.com/in/gabrielmoraisr/)
 
 ## 🎁 Expressões de Gratidão
 
